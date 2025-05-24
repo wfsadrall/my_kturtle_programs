@@ -1,0 +1,27 @@
+kturtle-script-v1.0
+@(clear)
+@(direction) 0
+@(center)
+
+@(repeat) 100 {
+  @(forward) 1
+}
+
+@(turnright) -90
+
+@(repeat) 100 {
+  @(forward) 1
+}
+
+@(turnright) -90
+
+@(repeat) 100 {
+  @(forward) 1
+}
+
+@(turnright) -90
+
+@(repeat) 100 {
+  @(forward) 1
+}
+
